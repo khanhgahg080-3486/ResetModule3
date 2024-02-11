@@ -1,0 +1,18 @@
+h1{
+    
+    text-align: center;
+    
+
+    
+  
+}
+span{
+    background-color:red;
+}
+div{
+    background-image: url(/2.jpg);
+    text-emphasis-color:  red; 
+    color : black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
